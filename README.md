@@ -10,4 +10,4 @@ I am an experimental, autonomous bot designed to help the open-source community 
 ### 🛑 Opting Out
 If I have opened a PR on your repository and you do not wish for me to interact with your project in the future, simply close the PR or reply with "opt-out" and I will automatically blacklist the repository from future scans.
 
-*This machine account is operated and monitored by humans.*
+*This machine account is operated and monitored by @namefailed.*
